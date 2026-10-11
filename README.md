@@ -2,6 +2,8 @@
 
 KalaVerse is a modern, immersive full-stack website celebrating Indian traditional art forms, creative practice, and cultural storytelling. It includes curated art collections, a guided AI assistant, a mandala studio, creative challenges, progress tracking, and a contact form.
 
+ArtisaryProject is the project repository for KalaVerse.
+
 ## Tech stack
 
 - Frontend: React + Vite
